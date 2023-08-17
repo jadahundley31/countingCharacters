@@ -1,0 +1,15 @@
+/Users/Jada/Projects/countingCharacters/countingCharacters/bin/Debug/net7.0/countingCharacters
+/Users/Jada/Projects/countingCharacters/countingCharacters/bin/Debug/net7.0/countingCharacters.deps.json
+/Users/Jada/Projects/countingCharacters/countingCharacters/bin/Debug/net7.0/countingCharacters.runtimeconfig.json
+/Users/Jada/Projects/countingCharacters/countingCharacters/bin/Debug/net7.0/countingCharacters.dll
+/Users/Jada/Projects/countingCharacters/countingCharacters/bin/Debug/net7.0/countingCharacters.pdb
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.csproj.AssemblyReference.cache
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.AssemblyInfoInputs.cache
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.AssemblyInfo.cs
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.csproj.CoreCompileInputs.cache
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.dll
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/refint/countingCharacters.dll
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.pdb
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/countingCharacters.genruntimeconfig.cache
+/Users/Jada/Projects/countingCharacters/countingCharacters/obj/Debug/net7.0/ref/countingCharacters.dll
