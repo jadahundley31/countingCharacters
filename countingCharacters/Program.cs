@@ -1,8 +1,23 @@
-﻿string myString = "catcatdog";
-foreach (char c in myString.ToCharArray())
+﻿//Dictionary<char, int> word = new Dictionary<char, int>();
+
+string myString = "catcatdog";
+char[] charactersInString = myString.ToCharArray();
+
+
+
+while (charactersInString.Length > 0)
 {
-    Console.WriteLine(c);
+    int integersInString = 0;
+    for (int i = 0; i < charactersInString.Length; i++)
+    {
+        if (charactersInString[0] == charactersInString[i])
+        {
+            Console.Write(charactersInString[i] + " : ");
+            integersInString++;
+        }
+    }
+    Console.WriteLine(integersInString);
 }
-Dictionary<string, double> word = new Dictionary<string, double>();
+
 
 Console.ReadLine();
